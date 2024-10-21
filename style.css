@@ -1,0 +1,124 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.t1{
+    color: rgb(255, 94, 0);
+    float: left;
+    border-radius: 100%;
+    background-color: rgb(245, 218, 164);
+    margin-top: 17px;
+}
+ul{
+    float: right;
+    list-style: none;
+}
+li{
+    float: left;
+    padding: 30px;
+font-size: 16px;
+}
+nav{
+    height: 80px;
+    background-color: aquamarine;
+    
+
+}
+a{
+    text-decoration: none;
+}
+.div1{
+    height: 400px;
+    background-image: url(morocco-typical-dish-meat-and-vegetable-in-a-tajine.jpg);
+    background-attachment: fixed;
+    text-align: center;
+}
+.btn1{
+    background-color: rgb(63, 179, 63);
+    border-radius: 100%;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: inherit;
+}
+.div1{
+    padding: 150px;
+}
+.tit1{
+    color: rgb(252, 0, 0);
+    font-size: 50px;
+}
+.p1{
+    color: rgb(255, 255, 255);
+    margin-top: 25px;
+}
+.btn1{
+    margin-top: 25px;
+}
+/* section 2 */
+body{
+    background: cornsilk;
+}
+.t2{
+    text-align: center;
+    font-size: 50px;
+    color: slateblue;
+    margin-top: 10px;
+    padding: 10px;
+}
+.p2{
+    width: 60%;
+    float: right;
+    font-size: 30px;
+    margin-top: 15px;
+}
+.img1{
+    float: left;
+    margin-left: 10px ;
+}
+.btn2{
+    background-color: rgb(248, 2, 2);
+    border-radius: 100%;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: inherit;
+    margin-top: 20px;
+}
+.btn3{
+    background-color: rgb(248, 2, 2);
+    border-radius: 100%;
+    padding: 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: inherit;
+    font-weight: bold;
+    color: black;
+    
+}
+.t3{
+    margin-top: 18cm;
+    margin-left: 17cm;
+    font-size: 50px;
+    color: slateblue;
+    padding: 40px;
+    
+}
+.p3{
+    width: 30%;
+    height: 200px;
+    float: right;
+    padding: 20px;
+    font-size: 25px;
+    background-color: aquamarine;
+    margin-right: 5px;
+}
+.p3:hover{
+    background-color: white;
+}
+.o1{
+    text-align: center;
+    margin-bottom: 10px;
+    color: rgb(255, 9, 9);
+    
+}
